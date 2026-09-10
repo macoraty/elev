@@ -1,0 +1,6 @@
+{
+  "name": "Configurador de Elevador",
+  "description": "Aplicativo para dimensionamento e configuração de elevadores (poço, cabine e arcada).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
